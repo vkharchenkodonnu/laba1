@@ -7,6 +7,7 @@ namespace test_pr
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Nyuhay Bebru");
         }
     }
 }
